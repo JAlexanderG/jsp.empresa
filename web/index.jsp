@@ -72,9 +72,8 @@
                 <br>
                 <button name="btn_agregar" id="btn_agregar" value="agregar" class="btn btn-success btn-lg">Agregar</button>
                 <button name="btn_modificar" id="btn_modificar" value="modificar" class="btn btn-info btn-lg">Modificar</button>
-                <button name="btn_eliminar" id="btn_eliminar" value="eliminar" onclick="javascript:if(!confirm('¿Esta seguro de eliminar el producto?'))return false" class="btn btn-danger btn-lg">Eliminar</button>
-                <button type="button" class="btn btn-warning btn-lg" data-dismiss="modal">Cerrar</button>
-                <br>
+                 
+				<br>
             </form>        
            </font>
           </div> 
